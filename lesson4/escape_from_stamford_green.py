@@ -3,7 +3,7 @@ import textwrap
 # This dictionary contains the map of the school.
 #
 # Each entry in the dictionary is a room or other location. The key is the
-# room name ("the_office), and the value is another dictionary containing
+# room name ("the_office"), and the value is another dictionary containing
 # properties of that room, as follows:
 #
 #   description: the text to be displayed when the player walks into this room.
@@ -71,7 +71,7 @@ def look():
 
 def go(direction):
     '''
-    Returns the name of the room in the given direction ('north', 'south', 'east' or 'west')
+    Returns the name of the room in the given direction ('north', 'east', 'south' or 'west')
     from the player's current location, or None if the player cannot go that way.
     '''
     next_location=school_map[location].get(direction)
@@ -83,7 +83,7 @@ def help():
     print("Escape From Stamford Green!")
     print("---------------------------")
     print("Instructions:")
-    print("1. Use 'north', 'south', 'east' or 'west' (or 'n', 'e', 's' or 'w') to move.")
+    print("1. Use 'north', 'east', 'south' or 'west' (or 'n', 'e', 's' or 'w') to move.")
     print("2. Type 'look' to see what you can see.")
     print("3. Display this message again by typing 'help'.")
 
