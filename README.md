@@ -25,5 +25,7 @@ This lesson actually took 2 weeks.
 [Lesson 3:](lesson3)
 * Caesar cipher project
 
-Lesson 4:
-* To be confirmed!
+[Lesson 4](lesson4):
+* Data Structures: lists, sets and dictionaries.
+* Calculating prime numbers with sets.
+* Escape from Stamford Green adventure game (version 1)
