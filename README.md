@@ -26,9 +26,15 @@ This lesson actually took 2 weeks.
 * Caesar cipher project
 
 [Lesson 4](lesson4):
+This lesson took two weeks.
 * Data Structures: lists, sets and dictionaries.
 * Calculating prime numbers with sets.
 * Escape from Stamford Green adventure game (version 1)
+* Not in the materials, but we also spend a bit of time with class members
+  adding their own rooms to the maze and making random events happen: a teacher
+  occassionally appears and sends you to the staff room. There was a question
+  about how, on completing the game, it could tell you how quickly you did it.
+  This influenced the time.time() functionality in the next lesson!
 
 [Lesson 5](lesson5):
 * Type conversions
