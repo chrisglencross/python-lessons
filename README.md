@@ -29,3 +29,9 @@ This lesson actually took 2 weeks.
 * Data Structures: lists, sets and dictionaries.
 * Calculating prime numbers with sets.
 * Escape from Stamford Green adventure game (version 1)
+
+[Lesson 5](lesson5):
+* Type conversions
+* Simple exception handling
+* Timing with *time.time()*
+* Times Table Test game
