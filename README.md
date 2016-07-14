@@ -41,3 +41,8 @@ This lesson took two weeks.
 * Simple exception handling
 * Timing with *time.time()*
 * Times Table Test game
+
+[Lesson 6](lesson6):
+* More turtle graphics: filling shapes, choosing colours, clicking on turtles,
+  many turtles, and making your own turtle shapes.
+
